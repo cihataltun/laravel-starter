@@ -28,16 +28,16 @@
             </div>
 
             <nav class="relative flex flex-wrap justify-center gap-8 p-8 text-sm font-bold border-2 border-black rounded-xl">
-                <a class="hover:opacity-75" href="https://nasirkhn.com" target="_blank" rel="noopener noreferrer">
-                    Nasir Khan Saikat
+                <a class="hover:opacity-75" href="https://dgtlface.com" target="_blank" rel="noopener noreferrer">
+                    Cihat Altun Development
                 </a>
 
                 <a class="hover:opacity-75" href="/blog" target="_blank" rel="noopener noreferrer">
                     Blog
                 </a>
 
-                <a class="hover:opacity-75" href="/portfolio" target="_blank" rel="noopener noreferrer">
-                    Portfolio
+                <a class="hover:opacity-75" href="/iletisim" target="_blank" rel="noopener noreferrer">
+                    İletişim
                 </a>
             </nav>
 
